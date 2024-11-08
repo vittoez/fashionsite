@@ -1,1 +1,2 @@
-# fashionsite
+# Fashionsite
+This simple e-commerce website demonstrates a basic online store setup, featuring a homepage, product listings, shopping cart functionality, and a payment form. Users can browse products, add items to a cart, and proceed to checkout. The website includes essential pages: a shop page displaying products, a cart page for viewing selected items, and a payment page to input transaction details. JavaScript manages cart operations and dynamically updates the cart page, while CSS styles ensure a clean, user-friendly interface. This project provides a foundational structure for a basic shopping website, suitable for demonstrating core e-commerce site functionality
